@@ -1,3 +1,5 @@
+# Source: https://github.com/Paperspace/DataAugmentationForObjectDetection
+
 # Data Augmentation For Object Detection
 
 Accompanying code for the [Paperspace tutorial series on adapting data augmentation methods for object detection tasks](https://blog.paperspace.com/data-augmentation-for-bounding-boxes/)
